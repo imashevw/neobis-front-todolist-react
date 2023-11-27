@@ -3,7 +3,7 @@
 
 ## Установка
 
-1. Склонируйте репозиторий: `git clone https://github.com/imashevw/neobis-front-Todolist-react.git`
+1. Склонируйте репозиторий: `git clone https://github.com/imashevw/neobis-front-Todolist-react  .git`
 2. Откройте файл index.html в вашем браузере.
 
 ## Запуск проекта локально

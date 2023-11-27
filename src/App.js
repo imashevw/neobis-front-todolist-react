@@ -1,9 +1,9 @@
-import TodoWrapper from "./components/ToDoProject";
+import { ToDoProject } from "./components/ToDoProject";
 
 function App() {
   return (
     <div className="App">
-      <TodoWrapper />
+      <ToDoProject />
     </div>
   );
 }
